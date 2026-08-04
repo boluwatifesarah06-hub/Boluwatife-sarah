@@ -1,0 +1,6 @@
+{
+  "name": "Credence Legal",
+  "description": "Premium landing page for Credence Legal, Attorneys-at-Law in Douala, Cameroon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
